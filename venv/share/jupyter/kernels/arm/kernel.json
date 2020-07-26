@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "K:\\MachineLearning\\Apriori\\venv\\Scripts\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "arm",
+ "language": "python"
+}
